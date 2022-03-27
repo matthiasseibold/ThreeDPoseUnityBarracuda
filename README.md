@@ -7,14 +7,14 @@ https://github.com/digital-standard/ThreeDPoseUnityBarracuda
 ## Outline
 ThreeDPoseUnityBarracuda is a sample project which reads a VRect onnx model with Barracuda regresses a 3D human pose within Unity. The target should be only one person, multi target pose estimation is not supported. </br>
 
-Ported to Unity 2020.3.31f1.</br>
-Currently works with Barracuda 1.0.5
+Ported to Unity 2020.3.31f1.  
+Currently works with Barracuda 1.0.5  
+Tested with Windows 10
 
 ## Performance Report
 ### GPU </br>
 GeForce RTX2070 SUPER ⇒ About 30 FPS </br>
 GeForce GTX1070 ⇒ About 20 FPS </br>
-<font color="Red">**※Without GPU, it does not work fine basically**</font>
 
 ## Install and Tutorial
 ### Download and put files
