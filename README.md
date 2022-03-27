@@ -1,8 +1,6 @@
 # ThreeDPoseUnityBarracuda
-This project is a fork from:
+This project is a fork from the repo below and was stripped to only display the skeleton overlayed onto the webcam stream.
 https://github.com/digital-standard/ThreeDPoseUnityBarracuda
-
-and stripped to only display the skeleton on top of the webcam stream.
 
 ![demo](Assets/StreamingAssets/ScreenShots/skeleton.png)
 
