@@ -72,10 +72,8 @@
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\UnityPath.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\GenericCallUtility\GenericExpressionCallFactory.g.cs" />
     <Compile Include="Assets\VRM\MToon\MToon\Scripts\UtilsGetter.cs" />
-    <Compile Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Scripts\CameraController.cs" />
     <Compile Include="Assets\VRM\UniUnlit\Scripts\Utils.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\ShaderStore.cs" />
-    <Compile Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Scripts\UnityChanControlScriptWithRgidBody.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\LookAt\VRMLookAtHead.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\ExtensionsAndExtras\glTFExtensions.cs" />
     <Compile Include="Assets\Scripts\VNectModel.cs" />
@@ -124,7 +122,6 @@
     <Compile Include="Assets\VRM\DepthFirstScheduler\IEnumeratorExtensions.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\IStorage.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\BlendShape\MaterialValueBindingMerger.cs" />
-    <Compile Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Scripts\SpringCollider.cs" />
     <Compile Include="Assets\VRM\DepthFirstScheduler\Functor.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\ListTreeNode\ListTreeNodeObjectExtensions.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\gltfImporter.cs" />
@@ -194,7 +191,6 @@
     <Compile Include="Assets\VRM\UniVRM\Scripts\Format\VRMMaterialImporter.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Exceptions.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\JsonSchemaValidator\JsonObjectValidator.cs" />
-    <Compile Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Scripts\FaceUpdate.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Utf8String\IUtf8String.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\Format\glTF_VRM_SecondaryAnimation.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\ListTreeNode\ListTreeNodeJsonPointerExtensions.cs" />
@@ -209,7 +205,6 @@
     <Compile Include="Assets\VRM\UniJSON\Scripts\JsonSchemaValidator\JsonSchemaValidatorFactory.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\ConcreteCast.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Json\JsonPointer.cs" />
-    <Compile Include="Assets\Avatar\unity-chan!\Unity-chan! Model\SplashScreen\Scripts\SplashScreen.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\Format\glTF_VRM_Material.cs" />
     <Compile Include="Assets\VRM\UniVRM\Scripts\Humanoid\VRMHumanoidDescription.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\GenericCallUtility\GenericExpressionCallFactory.cs" />
@@ -247,9 +242,7 @@
     <Compile Include="Assets\VRM\UniVRM\Scripts\SkinnedMeshUtility\MeshExtensions.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\BytesBuffer.cs" />
     <Compile Include="Assets\VRM\ShaderProperty\Runtime\VRM\VRM_UnlitTransparent.cs" />
-    <Compile Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Scripts\SpringManager.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Json\JsonParser.cs" />
-    <Compile Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Scripts\RandomWind.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\glTFTexture.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\ExtensionsAndExtras\glTFMesh.Primitives.extras.targetNames.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Toml\TomlParser.cs" />
@@ -294,7 +287,6 @@
     <Compile Include="Assets\VRM\UniJSON\Scripts\FormatterExtensionsSerializer.cs" />
     <Compile Include="Assets\VRM\UniHumanoid\Scripts\AnimationClipUtility.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\MeshImporter.cs" />
-    <Compile Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Scripts\IKCtrlRightHand.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\UniGLTFVersion_partial.cs" />
     <Compile Include="Assets\VRM\MToon\MToon\Scripts\UtilsVersion.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\glTFBuffer.cs" />
@@ -302,44 +294,29 @@
     <Compile Include="Assets\VRM\UniVRM\Scripts\Format\VRMSpecVersion.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\Utf8String\Utf8String.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\Format\ExtensionsAndExtras\glTFCameraExtensions.cs" />
-    <Compile Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Scripts\IdleChanger.cs" />
     <Compile Include="Assets\VRM\ShaderProperty\Runtime\VRM\VRM_MToon.cs" />
     <Compile Include="Assets\VRM\UniGLTF\Scripts\IO\MeshExporter.cs" />
-    <Compile Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Scripts\SpringBone.cs" />
-    <Compile Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Scripts\ThirdPersonCamera.cs" />
     <Compile Include="Assets\VRM\ShaderProperty\Runtime\PreShaderPropExporter.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\ByteBuffer.cs" />
-    <Compile Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Scripts\AutoBlink.cs" />
     <Compile Include="Assets\VRM\UniHumanoid\PoseModifier\IPoseModifier.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\JsonSchemaValidator\JsonArrayValidator.cs" />
     <Compile Include="Assets\VRM\UniJSON\Scripts\GenericCallUtility\GenericInvokeCallFactory.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
-    <None Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_akarami_blend.shader" />
     <None Include="Assets\Scripts\Shader\TintShader.shader" />
     <None Include="Assets\VRM\UniVRM\Resources\Shaders\VRMUnlitTransparentZWrite.shader" />
-    <None Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
     <None Include="Assets\VRM\UniGLTF\Resources\Shaders\NormalMapDecoder.shader" />
-    <None Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_hada.shader" />
-    <None Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_fuku_ds.shader" />
-    <None Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_eyelash_blend.shader" />
     <None Include="Assets\VRM\MToon\MToon\Resources\Shaders\MToonSM4.cginc" />
     <None Include="Assets\VRM\MToon\MToon\Resources\Shaders\MToonSM3.cginc" />
     <None Include="Assets\Scripts\Model\AddOnnxHere.txt" />
     <None Include="Assets\Scripts\Shader\NoiseShader.shader" />
     <None Include="Assets\VRM\UniVRM\Resources\Shaders\VRMUnlitTexture.shader" />
     <None Include="Assets\VRM\MToon\MToon\Resources\Shaders\MToon.shader" />
-    <None Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_hada_blend.shader" />
-    <None Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
     <None Include="Assets\VRM\UniVRM\Resources\Shaders\VRMUnlitCutout.shader" />
     <None Include="Assets\VRM\UniUnlit\Resources\UniUnlit.shader" />
     <None Include="Assets\StreamingAssets\VRM.Samples\Motions\test.txt" />
-    <None Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Art\Stage\Shader\AlphaMask.shader" />
     <None Include="Assets\VRM\UniGLTF\Resources\Shaders\NormalMapEncoder.shader" />
     <None Include="Assets\VRM\UniGLTF\Resources\Shaders\StandardVColor.shader" />
-    <None Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_hair.shader" />
-    <None Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_eye_blend.shader" />
     <None Include="Assets\VRM\UniVRM\Resources\Shaders\VRMUnlitTransparent.shader" />
     <None Include="Assets\VRM\MToon\MToon\Resources\Shaders\MToonCore.cginc" />
   </ItemGroup>

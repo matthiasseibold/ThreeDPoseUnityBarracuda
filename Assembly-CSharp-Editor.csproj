@@ -83,7 +83,6 @@
     <Compile Include="Assets\VRM\UniVRM\Editor\Tests\EnumUtilTest.cs" />
     <Compile Include="Assets\VRM\UniVRM\Editor\BlendShape\VRMBlnedShapeProxyEditor.cs" />
     <Compile Include="Assets\VRM\UniJSON\Editor\Tests\MsgPack\StringTest.cs" />
-    <Compile Include="Assets\Avatar\unity-chan!\Unity-chan! Model\Editor\CreateLocatorHere.cs" />
     <Compile Include="Assets\VRM\UniJSON\Editor\Tests\IWriteStreamTest.cs" />
     <Compile Include="Assets\VRM\UniJSON\Editor\Tests\MsgPack\BooleanTest.cs" />
     <Compile Include="Assets\VRM\UniJSON\Editor\Tests\RPCTests.cs" />
