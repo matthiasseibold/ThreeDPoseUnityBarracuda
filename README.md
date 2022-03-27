@@ -7,11 +7,8 @@ and stripped to only display the skeleton on top of the webcam stream.
 ![demo](Assets/StreamingAssets/ScreenShots/skeleton.png)
 
 ## Outline
-ThreeDPoseUnityBarracuda is a sample source which read the onnx by Barracuda and do threeD pose estimation on Unity.
-the accuracy got better than pre model. </br>
-*Be aware of that the target should be only one person. It does not work for multi target. </br></br>
-This sample lets the avatar named as "Unity chan" behaves same as the man on real time by estimating the 3D positions on the movie.</br>
-
+ThreeDPoseUnityBarracuda is a sample source which read the onnx by Barracuda and do threeD pose estimation on Unity.</br>
+The target should be only one person. It does not work for multi target. </br>
 
 Ported to Unity 2020.3.31f1.</br>
 Currently works with Barracuda 1.0.5
