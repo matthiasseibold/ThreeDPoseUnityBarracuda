@@ -5,8 +5,7 @@ https://github.com/digital-standard/ThreeDPoseUnityBarracuda
 ![demo](Assets/StreamingAssets/ScreenShots/skeleton.png)
 
 ## Outline
-ThreeDPoseUnityBarracuda is a sample source which read the onnx by Barracuda and do threeD pose estimation on Unity.</br>
-The target should be only one person. It does not work for multi target. </br>
+ThreeDPoseUnityBarracuda is a sample project which reads a VRect onnx model with Barracuda regresses a 3D human pose within Unity. The target should be only one person, multi target pose estimation is not supported. </br>
 
 Ported to Unity 2020.3.31f1.</br>
 Currently works with Barracuda 1.0.5
