@@ -17,7 +17,6 @@ GeForce RTX2070 SUPER ⇒ About 30 FPS </br>
 GeForce GTX1070 ⇒ About 20 FPS </br>
 
 ## Install and Tutorial
-### Download and put files
 1. Download/clone this repo to your local PC and open the project with Unity 2020.3.31f1.
 
 2. Download onnx from our home page by clicking following URL in our HP.</br>
