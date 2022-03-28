@@ -19,11 +19,14 @@ GeForce GTX1070 ⇒ About 20 FPS </br>
 ## Installation
 1. Download/clone this repo to your local PC and open the project with Unity 2020.3.31f1.
 
-2. Download onnx from our home page by clicking following URL in our HP.</br>
+2. Open the sample scene under "Assets > Scenes".  
+
+3. Download onnx from our home page by clicking following URL in our HP.</br>
    https://digital-standard.com/threedpose/models/Resnet34_3inputs_448x448_20200609.onnx
    Place the ONNX model in Assets/Scripts/Model/ 
-   and drag-and-drop it to "NN Model" in Gameobject named as "BarracudaRunner" in Inspector view.
-     
+   and drag-and-drop it to "NN Model" in Gameobject named as "BarracudaRunner" in Inspector view.  
+ 
+ 4. Press Play
 
 ## How to make a good estimate?
 
