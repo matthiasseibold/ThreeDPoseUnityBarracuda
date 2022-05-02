@@ -2,8 +2,6 @@
 This project is a fork from the repo below and was stripped to only display the skeleton overlayed onto the webcam stream.
 https://github.com/digital-standard/ThreeDPoseUnityBarracuda
 
-![demo](Assets/StreamingAssets/ScreenShots/skeleton.png)
-
 ## Outline
 ThreeDPoseUnityBarracuda is a sample project which reads a VRect onnx model with Barracuda regresses a 3D human pose within Unity. The target should be only one person, multi target pose estimation is not supported. </br>
 
